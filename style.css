@@ -187,15 +187,25 @@ h2 {
     background-color: red;
   }
 }
-
+.title{
+  font-size: 100px;
+}
+ 
 @media screen and (min-width: 301px) and (max-width: 600px)  {
   body {
     background-color: blue;
   }
 }
+.title{
+  font-size: 100px;
+}
+ 
 
 @media screen and (max-width: 300px) {
   body {
     background-color: green;
   }
+}
+.title{
+  font-size: 100px;
 }
